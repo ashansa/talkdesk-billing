@@ -22,8 +22,8 @@ public class BillingTest {
 
     public static void main(String[] args) throws Exception {
         BillingTest billingTest = new BillingTest();
-        billingTest.testCallHistory();
-        billingTest.testCharge();
+        //billingTest.testCallHistory();
+        //billingTest.testCharge();
     }
 
     private BillingTest() throws IOException {
