@@ -17,3 +17,6 @@ This will clean up the billing information and create new tables for the system.
 To run the application
   java -jar call-billing-1.0-SNAPSHOT-jar-with-dependencies.jar
 and follow the instructions in the command line.
+
+Sample input for option1:
+25,234ID,+14845348611,+351961918192,+351961918346
